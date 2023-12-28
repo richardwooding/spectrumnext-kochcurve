@@ -1,4 +1,4 @@
-10 LAYER 3
+10 LAYER 2,1
 20 LET penstate=1
 30 LET x=0
 40 LET y=64
